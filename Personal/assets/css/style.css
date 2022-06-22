@@ -1029,3 +1029,11 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+.resume-links a:hover {
+  color: #ffffff !important;
+}
+
+.portfolio-info a:hover {
+  color: #ffffff !important;
+}
